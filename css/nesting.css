@@ -1,0 +1,20 @@
+.col1{
+    background-color: #FCB8C3;
+    color: #FFF;
+}
+
+.col2{
+    background-color: #2027FF;
+    color: #FFF;
+}
+
+.n-col-1{
+    background-color:#ffff00;
+    color: #000000;
+    font-weight:bold;
+}
+
+.n-col-2{
+    background-color:#FA9B00;
+    font-weight:bold;
+}

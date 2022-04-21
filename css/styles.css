@@ -1,0 +1,82 @@
+body{
+	background: #EEEEEE;
+}
+
+img{
+	max-width: 100%;
+}
+
+h1{
+
+	text-align: center;
+	background: #FFF;
+	height: 19vh;
+	border:2px solid #000;
+	padding-top:6vh;
+}
+
+main{
+	padding:0;
+}
+
+.navbar button{
+	border-color: #FFF;
+	width:35px;
+	height: 30px;
+	padding:0;
+}
+
+.navbar button span img{
+	width:15px;
+	margin:0;
+	padding:0;
+}
+
+.nav-links{
+	background-color: rgb(104, 12, 6);
+	color: #FFF
+}
+
+.nav-logo{
+	color: #FFF !important;
+}
+
+.link{
+	color: #FFF;
+	margin:0 10px;
+}
+
+.navbar-collapse ul{
+	position: absolute;
+	top:10px;
+	right:0;
+}
+
+.slider{
+	padding:0; 
+}
+
+/* .slider > div:first-child{
+	height: 50vh;
+} */
+
+.carousel-item img{
+	height: 80vh;
+}
+
+.card-img-height{
+	height: 15rem;
+}
+
+.card-width{
+	width:16rem;
+}
+
+
+footer{
+	text-align: center;
+	background-color: rgb(104, 12, 6);
+	padding:10px;
+	margin:0;
+	color:#FFF;
+}
